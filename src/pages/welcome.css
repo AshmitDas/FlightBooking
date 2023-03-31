@@ -1,0 +1,147 @@
+@media(max-width:905px){
+.filter{
+    display: flex;
+    flex-direction: column;
+    
+}
+.btn-primary {
+    color: black;
+}
+
+
+}
+.book-seat-no{
+    margin-top: 2rem;
+    width: 40%;
+    font-weight: bold;
+    padding: 26px 0px 16px 8px; 
+    border: 2px solid brown;
+}
+
+/* -------------------------------------------------------------- */
+
+.gradient{
+    background-image: linear-gradient(to right,rgb(99, 162, 162),rgb(168, 168, 176));
+}
+
+.home{
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    
+}
+.home:hover{
+    background-color: azure;
+    border-radius: 12px;
+    transform: scale(94%,115%);
+}
+.first-h2{
+    font-weight: 900;
+    color: aqua;
+}
+
+.button{
+    gap: 2rem;
+}
+.login{
+    border-radius: 12px;
+    padding: 10px;
+    border: none;
+    margin: 2px;
+}
+.login:hover{
+    transform: scale(104%,108%);
+}
+
+/* From here this is for Filter one ------------------------- */
+
+.second{
+    background-image: url('image.img');
+    background-position: center;
+    background-attachment: fixed;
+    padding: 30px;
+    height: 30rem;
+    
+
+}
+.second-h2{
+    color: black;
+    font-weight: bold;
+    opacity: 90%;
+    font-family: cursive;
+}
+
+.box{
+    height: 2rem;
+    border: none;
+    border-radius: 8px;
+    padding: 3px;
+}
+.filter{
+    background-color: rgb(217, 201, 182);
+    display: flex;
+    gap:4px;
+    border: 2px solid black;
+  outline-style: solid;
+  outline-color: black;
+  padding: 1rem;
+  width: 65%;
+}
+.search{
+    border: none;
+    margin-left: 2px;
+    background-color: burlywood;
+    border-radius: 4px;
+    padding: 4px;
+    width: 6rem;
+}
+
+.covid{
+    border: 1px solid burlywood;
+    border-radius: 4px;
+    margin-top: 3rem;
+    align-items: center;
+    padding: 4px;
+    padding-top: 15px;
+    width: 65%;
+}
+
+/* From here applied to header page  */
+header{
+    position:sticky;
+    width:100%;
+    z-index:+3;
+    top:0;
+}
+
+/* from here css for .loginpage  */
+.login-one{
+    background-image: url('login.img');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+.login-one{
+    gap: 15px;
+    width: 80%;
+    border: 2px solid blue;
+    margin: 3rem;
+    outline: 2px solid bisque;
+    border-radius: 5px;
+}
+.signup-input{
+    width: 100%;
+}
+
+/* From here this css belongs to Booking form  */
+
+.Booking-form{
+    background-color: antiquewhite;
+    width: 100%;
+    /* background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed; */
+}
+/* .form-one{
+    background-color: rgba(38, 103, 46, 0.76);
+} */

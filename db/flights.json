@@ -1,0 +1,179 @@
+[{
+  "_id": {
+    "$oid": "64230f85318d52d059d74ab9"
+  },
+  "flightName": "Vistara",
+  "to": "bengaluru",
+  "from": "delhi",
+  "date": "2023-03-12",
+  "CabinTypes": [
+    "economy",
+    "business",
+    "first"
+  ],
+  "seatBooked": [
+    "1",
+    "2",
+    "3"
+  ],
+  "image": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/airlines-companies/vistara-airlines-logo.png"
+},{
+  "_id": {
+    "$oid": "64231d55318d52d059d74abd"
+  },
+  "flightName": "Air India",
+  "to": "chennai",
+  "from": "mumbai",
+  "date": "2023-03-14",
+  "CabinTypes": [
+    "economy",
+    "business",
+    "first"
+  ],
+  "seatBooked": [],
+  "image": "https://logolook.net/wp-content/uploads/2022/10/Air-India-Logo.png"
+},{
+  "_id": {
+    "$oid": "642555971eaedde14262939d"
+  },
+  "flightName": "Indigo",
+  "to": "chennai",
+  "from": "mumbai",
+  "date": "2023-03-12",
+  "CabinTypes": [
+    "economy",
+    "business",
+    "first"
+  ],
+  "seatBooked": [],
+  "image": "https://logotyp.us/files/indigo.svg"
+},{
+  "_id": {
+    "$oid": "64267e5ff3e66a4ab11571cd"
+  },
+  "flightName": "Air asia",
+  "to": "kolkata",
+  "from": "hyderabad",
+  "date": "2023-03-12",
+  "CabinTypes": [
+    "business",
+    "first"
+  ],
+  "seatBooked": [],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/AirAsia_New_Logo.svg/450px-AirAsia_New_Logo.svg.png?20130820212744"
+},{
+  "_id": {
+    "$oid": "64267ea0f3e66a4ab11571ce"
+  },
+  "flightName": "SpiceJet",
+  "to": "delhi",
+  "from": "kerala",
+  "date": "2023-03-12",
+  "CabinTypes": [
+    "economy",
+    "business",
+    "first"
+  ],
+  "seatBooked": [],
+  "image": "https://assets.stickpng.com/images/6102f5167bcc7d000476ae3c.png"
+},{
+  "_id": {
+    "$oid": "64267eddf3e66a4ab11571cf"
+  },
+  "flightName": "Indigo",
+  "to": "lucknow",
+  "from": "hyderabad",
+  "date": "2023-03-12",
+  "CabinTypes": [
+    "economy",
+    "business",
+    "first"
+  ],
+  "seatBooked": [],
+  "image": "https://logotyp.us/files/indigo.svg"
+},{
+  "_id": {
+    "$oid": "64267f16f3e66a4ab11571d0"
+  },
+  "flightName": "Vistara",
+  "to": "kolkata",
+  "from": "mumbai",
+  "date": "2023-03-12",
+  "CabinTypes": [
+    "economy",
+    "first"
+  ],
+  "seatBooked": [],
+  "image": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/airlines-companies/vistara-airlines-logo.png"
+},{
+  "_id": {
+    "$oid": "64267f52f3e66a4ab11571d1"
+  },
+  "flightName": "Air Asia",
+  "to": "mumbai",
+  "from": "delhi",
+  "date": "2023-03-12",
+  "CabinTypes": [
+    "economy",
+    "business"
+  ],
+  "seatBooked": [],
+  "image": "https://logolook.net/wp-content/uploads/2022/10/Air-India-Logo.png"
+},{
+  "_id": {
+    "$oid": "64267fb3f3e66a4ab11571d2"
+  },
+  "flightName": "SpiceJet",
+  "to": "bengaluru",
+  "from": "delhi",
+  "date": "2023-03-12",
+  "CabinTypes": [
+    "first",
+    "business"
+  ],
+  "seatBooked": [],
+  "image": "https://assets.stickpng.com/images/6102f5167bcc7d000476ae3c.png"
+},{
+  "_id": {
+    "$oid": "6426802bf3e66a4ab11571d3"
+  },
+  "flightName": "Indigo",
+  "to": "hyderabad",
+  "from": "kolkata",
+  "date": "2023-03-13",
+  "CabinTypes": [
+    "first",
+    "economy",
+    "business"
+  ],
+  "seatBooked": [],
+  "image": "https://logotyp.us/files/indigo.svg"
+},{
+  "_id": {
+    "$oid": "64268065f3e66a4ab11571d4"
+  },
+  "flightName": "Air Asia",
+  "to": "lucknow",
+  "from": "chennai",
+  "date": "2023-03-23",
+  "CabinTypes": [
+    "economy",
+    "business"
+  ],
+  "seatBooked": [],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/AirAsia_New_Logo.svg/768px-AirAsia_New_Logo.svg.png"
+},{
+  "_id": {
+    "$oid": "64268105f3e66a4ab11571d5"
+  },
+  "flightName": "Air India",
+  "to": "bengaluru",
+  "from": "kolkata",
+  "date": "2023-03-23",
+  "CabinTypes": [
+    "economy",
+    "business"
+  ],
+  "seatBooked": [],
+  "image": "https://logolook.net/wp-content/uploads/2022/10/Air-India-Emblem.png"
+}]

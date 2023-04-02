@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+# Flight Booking
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a web application that uses React for its frontend, with Bootstrap for styling. The backend is built using Node.js and Express.js for routing. The database used in this project is MongoDB, with Mongoose as the Object Data Modeling (ODM) library.
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+- [Technologies](#technologies)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributors](#contributors)
 
-### `npm start`
+## Technologies
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [React](https://react.dev/) - Front-end framework
+- [Bootstrap](https://getbootstrap.com/) - Styling
+- [Axios](https://github.com/axios/axios) - HTTP client for the browser and node.js
+- [Node.js](https://nodejs.org/en) - JavaScript runtime environment
+- [Express.js](https://expressjs.com/) - Back-end framework for Node.js
+- [MongoDB](https://www.mongodb.com/) - NoSQL database
+- [Mongoose](https://mongoosejs.com/) - Object modeling for Node.js and MongoDB
+- [Nodemon](https://nodemon.io/) - Monitor for changes and restart server
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+- User authentication and authorization
+- CRUD operations for database management
+- Responsive design using Bootstrap
+- Client-side routing with React Router
+- Server-side routing with Express.js
+- Error handling and validation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Installation
 
-### `npm run build`
+- Clone the repository.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### React Installation
+1. Navigate to the root directory of the project in your terminal.
+2. Run `npm install` to install all dependencies.
+3. Run `npm start` to start the development server.
+4. Access the application at `http://localhost:3000`.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Database Installation and creation
+1. Navigate to the **db** directory of the project in your terminal.
+2. Run `npm install` to install all dependencies.
+3. Run `nodemon app.js` to start the development server.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Usage
 
-### `npm run eject`
+1. Register an account or login with existing credentials.
+2. Create, read, update or delete data from the database.
+3. Use the navigation menu to move between different pages of the application.
+4. Logout of the application when finished.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contributors
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [Siva Rama Krishna Naradala](https://github.com/shiva21602)
+- [Binit Panda](https://github.com/Binitpanda123)
+- [Rinza Rasheed K P](https://github.com/rinza-rasheed)
+- [Ashmit Das](https://github.com/AshmitDas)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Contributions are welcome! If you'd like to contribute, please follow these steps:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Fork the repository
+2. Create a branch (git checkout -b new-feature)
+3. Commit your changes (git commit -am 'Added a new feature')
+4. Push to the branch (git push origin new-feature)
+Create a new Pull Request
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
